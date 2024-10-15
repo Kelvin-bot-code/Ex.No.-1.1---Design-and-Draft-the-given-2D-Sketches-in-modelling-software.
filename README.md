@@ -42,6 +42,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+![ex 1 1 kelvin](https://github.com/user-attachments/assets/788df28f-9e26-406e-ad17-1a8153aed7b4)
 
 
 ## RESULT
